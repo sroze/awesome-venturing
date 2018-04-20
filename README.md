@@ -2,6 +2,7 @@
 
 This list is divided in three different categories:
 1. [Prototyping](#prototyping). What can help you when validating your idea via a prototype.
+1. [Customer relation](#customer-relation). Keep the conversation going with your customers.
 1. [Gathering feedback](#gathering-feedback). What you need to gather feedbacks.
 1. [Data Management](#data-management). Data management. 
 1. [Collecting metrics](#collecting-metrics)
@@ -15,18 +16,35 @@ This list is divided in three different categories:
 - [Marvel](https://marvelapp.com/).
 - [InvisionApp](https://www.invisionapp.com/).
 
-## Gathering feedback
+## Customer relation
+
+- [Intercom](https://intercom.com). Enable your users to communicate with you. Automated communication campaigns, etc...
+
+### Comportement analysis
 
 - [Full story](https://www.fullstory.com/). Records user journeys.
 
 ## Data Management
 
+### User
+
 - [Citizen](https://www.citizen.is/). _OAuth for Data_
+- [Auth0](https://auth0.com). User management as a service.
+
+### Data-agnostic tools
+
 - [Tanker](https://tanker.io). On-device encryption/decryption. You won't store the plain data.
 
 ## Collecting metrics
 
+### User-centric
+
 - [Google Analytics](https://analytics.google.com)
+- [Intercom](https://intercom.com), via User's attributes and events.
+
+### Technical
+
+- [Sentry](https://sentry.io). Know when your applications raise exceptions. Records the context to ease the debugging.
 - [OpenTracing](http://opentracing.io/). Collecting traces across (micro-)services.
 
 ### Dashboards
