@@ -26,6 +26,14 @@ This list is divided in three different categories:
 
 - [Full story](https://www.fullstory.com/). Records user journeys.
 
+### Usability testing
+
+- [User testing](https://www.usertesting.com/)
+- [Lookback](https://lookback.io/)
+- [Usability hub](https://usabilityhub.com/)
+- [User brain](https://userbrain.net/). Receive regular videos of users testing your site/app
+
+
 ## Data Management
 
 ### User
@@ -56,6 +64,7 @@ This list is divided in three different categories:
 ## Payment
 
 - [Bolt](https://bolt.com/)
+- [Stripe](https://stripe.com)
 
 ## Legals
 
