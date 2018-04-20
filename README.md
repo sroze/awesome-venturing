@@ -8,6 +8,7 @@ This list is divided in three different categories:
 1. [Collecting metrics](#collecting-metrics)
 1. [Payment](#payment)
 1. [Legals](#legals)
+1. [Share the love](#share-the-love)
 
 ## Prototyping
 
@@ -58,4 +59,8 @@ This list is divided in three different categories:
 ## Legals
 
 - [Stripe Atlas](https://stripe.com/atlas). Incorporation (in Delaware), bank account and tax management as-a-service.
+
+## Share the love
+
+- [Places to Post your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
 
