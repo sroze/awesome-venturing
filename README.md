@@ -1,6 +1,7 @@
 # Awesome Venturing
 
 This list is divided in three different categories:
+1. [Naming](#naming). You can start by that.
 1. [Prototyping](#prototyping). What can help you when validating your idea via a prototype.
 1. [Customer relation](#customer-relation). Keep the conversation going with your customers.
 1. [Gathering feedback](#gathering-feedback). What you need to gather feedbacks.
@@ -9,6 +10,10 @@ This list is divided in three different categories:
 1. [Payment](#payment)
 1. [Legals](#legals)
 1. [Share the love](#share-the-love)
+
+## Naming
+
+- [StartupNameCheck](https://startupnamecheck.com/). You have ideas of name? Check them! 
 
 ## Prototyping
 
