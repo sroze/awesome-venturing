@@ -57,6 +57,7 @@ This list is divided in three different categories:
 
 - [Sentry](https://sentry.io). Know when your applications raise exceptions. Records the context to ease the debugging.
 - [OpenTracing](http://opentracing.io/). Collecting traces across (micro-)services.
+- [Snyk](https://snyk.io/). Find and fix vulnerabilities in your dependencies. 
 
 ### Dashboards
 
