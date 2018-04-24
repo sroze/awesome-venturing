@@ -8,6 +8,7 @@ Such a broad topic: to be summarised and presented in here.
 - [Intercom](https://intercom.com), via User's attributes and events.
 
 ### Web Performance & SEO
+
 - [Dareboost](https://www.dareboost.com)
 - [Varvy](https://varvy.com/)
 

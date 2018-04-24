@@ -44,7 +44,7 @@ changes of success.
 
 - [Naming](./by-topic/naming.md#readme)
   <br>Finding the right name is hard.
-  
+
 - [Ops](./by-topic/operations.md)
   <br>Tools for opperating an online business.
 
@@ -63,6 +63,19 @@ changes of success.
 
     - [UX Analysis](./by-topic/ux/analysis.md#readme).
       <br>Understand how are your users reacting to your user interface.<br>
+
+---
+
+# Books
+
+There are also amazing books you can read to get more insights about all these
+topics.
+
+- [The Lean Product Playbook](http://leanproductplaybook.com/).
+  <br>_a step-by-step guide to Lean product management and how to achieve product-market fit._
+
+- [The Spring Book](https://www.thesprintbook.com/).
+  <br>_a book about surprising ideas: that the biggest challenges require less time, not more; that individuals produce better solutions than teams_
 
 ---
 
