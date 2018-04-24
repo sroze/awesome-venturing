@@ -7,6 +7,10 @@ Such a broad topic: to be summarised and presented in here.
 - [Google Analytics](https://analytics.google.com)
 - [Intercom](https://intercom.com), via User's attributes and events.
 
+### Web Performance & SEO
+- [Dareboost](https://www.dareboost.com)
+- [Varvy](https://varvy.com/)
+
 ### Technical
 
 - [Sentry](https://sentry.io). Know when your applications raise exceptions. Records the context to ease the debugging.
