@@ -3,9 +3,9 @@
 The point of this repository is to help you in the route of startup creation. There
 are two ways to browse this documentation:
 
-1. [🚀  By stage](./by-stage). From the validation idea to scaling your business.
+1. [🚀  By stage](./by-stage#readme). From the validation idea to scaling your business.
 
-1. [🚪  By topic](./by-topic). UX prototyping, metrics collection to payment providers.
+1. [🚪  By topic](./by-topic#readme). UX prototyping, metrics collection to payment providers.
 
 ---
 
