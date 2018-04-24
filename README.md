@@ -44,6 +44,9 @@ changes of success.
 
 - [Naming](./by-topic/naming.md#readme)
   <br>Finding the right name is hard.
+  
+- [Ops](./by-topic/operations.md)
+  <br>Tools for opperating an online business.
 
 - [Payment](./by-topic/payment.md#readme).
   <br>Get money from (and for?) your customers.
