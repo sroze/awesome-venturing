@@ -1,4 +1,4 @@
-# Landing pages
+# Landing pages
 
 You don't have much time to give a good impression. Everybody knows that our
 attention span is reducing: you need a straight to the point landing page.
