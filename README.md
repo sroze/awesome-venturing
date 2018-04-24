@@ -51,6 +51,9 @@ changes of success.
 - [Payment](./by-topic/payment.md#readme).
   <br>Get money from (and for?) your customers.
 
+- [Presentation](./by-topic/presentations.md)
+  <br>Build presentations for your investors or others.
+
 - [Share](./by-topic/share.md#readme).
   <br>Sprend the world with your idea.
 

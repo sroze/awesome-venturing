@@ -17,6 +17,11 @@ Such a broad topic: to be summarised and presented in here.
 - [OpenTracing](http://opentracing.io/). Collecting traces across (micro-)services.
 - [Snyk](https://snyk.io/). Find and fix vulnerabilities in your dependencies.
 
+### A/B testing
+
+- [Optimizely](https://www.optimizely.com/). A/B testing for your application.
+- [Qubit](https://www.qubit.com/). Personalisation.
+
 ### Dashboards
 
 - [redash](https://redash.io/) & [Metabase](https://metabase.io). Open-source data dashboard with querying capabilities.

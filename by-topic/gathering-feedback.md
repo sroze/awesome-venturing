@@ -12,4 +12,5 @@
 
 ### Find people
 
-To be filled.
+- [XpertsCouncil](https://xpertscouncil.com/en/home/).
+  Find field experts as consultants.
