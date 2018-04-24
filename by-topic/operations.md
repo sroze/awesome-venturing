@@ -12,4 +12,4 @@
 ## Customer Support
 
 - [Toky](https://toky.co/en) Virtual phone service that integrates well with Intercom.
-- [Inercom](https://www.intercom.com) Multi channel customer engagment, support and feedback service.
+- [Intercom](https://www.intercom.com) Multi channel customer engagment, support and feedback service.
