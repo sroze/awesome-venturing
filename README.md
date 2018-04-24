@@ -2,10 +2,6 @@
 
 The point of this repository is to help you in the route of startup creation.
 
-<table width=100% style="text-align: center"><tr><td colspan=2>Browse by</td><tr><td><a href="#by-stage">🚀 <br>By stage</a></td><td><a href="#by-topic">🚪 <br>By topic</a></td><tr></table>
-
----
-
 ## Browse by stage
 
 1. [Solidification](./by-stage/1-solidification.md#readme).
@@ -62,7 +58,7 @@ The point of this repository is to help you in the route of startup creation.
 
 ---
 
-### Contributions are welcome!
+### Contributions are welcome
 
 Anybody is welcome to add a tool, some context, tips and anything they believe
 is relevant and will contribute to the success of anybody going through this
