@@ -1,6 +1,8 @@
 # Awesome Venturing
 
-The point of this repository is to help you in the route of startup creation.
+The point of this repository is to help you in the route of startup creation. It
+will provide you a list of tools, concepts and tips you can pick to increase your
+changes of success.
 
 ## Browse by stage
 
