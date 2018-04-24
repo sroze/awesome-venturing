@@ -2,7 +2,7 @@
 
 The point of this repository is to help you in the route of startup creation.
 
-<table width=100% style="text-align: center"><tr><td colspan=2>Browse by</td><tr><td>[🚀 <br>By stage](#by-stage)</td><td>[🚪 <br>By topic](#by-topic)</td><tr></table>
+<table width=100% style="text-align: center"><tr><td colspan=2>Browse by</td><tr><td><a href="#by-stage">🚀 <br>By stage</a></td><td><a href="#by-topic">🚪 <br>By topic</a></td><tr></table>
 
 ---
 
