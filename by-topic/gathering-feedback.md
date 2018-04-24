@@ -13,4 +13,7 @@
 ### Find people
 
 - [XpertsCouncil](https://xpertscouncil.com/en/home/).
-  Find field experts as consultants.
+  <br>Find field experts as consultants.
+
+- [LinkedIn Recruiter account](https://www.linkedin.com/help/linkedin/answer/372/individual-account-vs-recruiter-account?lang=en).
+  <br>Find people in specific business areas that can answer your questions.
