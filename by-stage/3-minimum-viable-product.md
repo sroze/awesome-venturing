@@ -8,5 +8,5 @@
 
 [Previous: Prototyping](./2-prototyping.md#readme)
 <div style="text-align: right">
-[Next: Scale](./4-scale.md#readme)
+<a href="./4-scale.md#readme">Next: Scale</a>
 </div>

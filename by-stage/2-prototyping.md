@@ -17,5 +17,5 @@
 
 [Previous: Solidification](./1-solidification.md#readme)
 <div style="text-align: right">
-[Next: Minimum Viable Product](./3-minimum-viable-product.md#readme)
+<a href="./3-minimum-viable-product.md#readme">Next: Minimum Viable Product</a>
 </div>

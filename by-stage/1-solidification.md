@@ -12,5 +12,5 @@ to validate it.
 ---
 
 <div style="text-align: right">
-[Next: Prototyping](./2-prototyping.md#readme)
+<a href="./2-prototyping.md#readme">Next: Prototyping</a>
 </div>
