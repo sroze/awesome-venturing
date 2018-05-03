@@ -30,6 +30,8 @@ changes of success.
 
     - [Storage](./by-topic/data/storage.md#readme)
 
+    - [Medias](./by-topic/data/medias.md#readme)
+
 - [Gathering feedback](./by-topic/gathering-feedback.md#readme).
   <br>What you need to gather feedbacks.
 
