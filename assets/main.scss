@@ -1,0 +1,85 @@
+---
+---
+
+@import "minima";
+
+body {
+  background: #efefef;
+}
+
+.site-title {
+  display: inline-block;
+  width: 30px;
+  vertical-align: bottom;
+
+  svg {
+    vertical-align: middle;
+  }
+}
+
+.home {
+  .hero {
+    text-align: center;
+    padding: 50px 0;
+
+    h2 {
+      font-weight: 300;
+    }
+  }
+}
+
+ul.topic-list {
+  margin: 0;
+
+  li {
+    width: 33%;
+    display: inline-block;
+    padding: 10px;
+    box-sizing: border-box;
+
+    .card {
+      height: 200px;
+      -webkit-border-radius: 8px;
+      -moz-border-radius: 8px;
+      -ms-border-radius: 8px;
+      -o-border-radius: 8px;
+      border-radius: 8px;
+      -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+      -moz-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      -webkit-transition: all 300ms ease;
+      -moz-transition: all 300ms ease;
+      -o-transition: all 300ms ease;
+      transition: all 300ms ease;
+      background: #fff;
+
+      .topic-image {
+        height: 120px;
+        display: block;
+        margin: auto;
+      }
+
+      h3 {
+        text-align: center;
+
+        a {
+          text-decoration: none;
+          padding-top: 20px;
+
+          &:visited {
+            color: #2a7ae2;
+          }
+
+          &:hover {
+            color: #111;
+          }
+        }
+      }
+    }
+  }
+}
+
+.footer-col-33 {
+  width: 30%;
+}

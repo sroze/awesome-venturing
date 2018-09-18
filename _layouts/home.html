@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="home">
+    {{ content }}
+
+    {%- if site.topics.size > 0 -%}
+    <ul class="topic-list">
+        {%- for topic in site.topics -%}
+        <li>
+            <div class="card">
+                <h3>
+                    <a class="post-link" href="{{ topic.url | relative_url }}">
+                        {%- if topic.icon -%}
+                        <img src="{{ topic.icon }}" class="topic-image" />
+                        {%- endif -%}
+
+                        {{ topic.title | escape }}
+                    </a>
+                </h3>
+                {%- if site.show_excerpts -%}
+                {{ topic.excerpt }}
+                {%- endif -%}
+            </div>
+        </li>
+        {%- endfor -%}
+    </ul>
+    {%- endif -%}
+
+</div>
