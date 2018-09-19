@@ -13,7 +13,7 @@ layout: default
                 <h3>
                     <a class="post-link" href="{{ topic.url | relative_url }}">
                         {%- if topic.icon -%}
-                        <img src="{{ topic.icon }}" class="topic-image" />
+                        <img src="{{ topic.icon | relative_url }}" class="topic-image" />
                         {%- endif -%}
 
                         {{ topic.title | escape }}
