@@ -17,7 +17,7 @@ title: Awesome Venturing
 email: samuel.roze@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   To help you in the route of startup creation. It provides you a list of tools, concepts and tips you can pick to increase your changes of success.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/awesome-venturing" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sroze/awesome-venturing
 
